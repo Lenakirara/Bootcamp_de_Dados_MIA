@@ -13,3 +13,5 @@ Primeiro bootcamp em dados realizado por Mulheres em IA - MIA
 | 20/08 | Classificação (parte 2) |
 | 24/08 | Clustering |
 | 27/08 | Ensemble |
+
+***projetos em construção

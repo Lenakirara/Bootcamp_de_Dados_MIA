@@ -1,6 +1,6 @@
 # Bootcamp de Dados MIA
 
-Primeiro bootcamp em dados realizado por Mulheres em IA - MIA
+Primeiro bootcamp em dados realizado por [Mulheres em IA - MIA](https://www.linkedin.com/in/mulheres-em-ia/?originalSubdomain=br)
 
 | Data | Aula |
 |------|------|

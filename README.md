@@ -7,7 +7,7 @@ Primeiro bootcamp em dados realizado por [Mulheres em IA - MIA](https://www.link
 | 30/07 | Introdução à Ciência de Dados | |
 | 03/08 | Introdução à Engenharia de Dados | |
 | 06/08 | Análise Exploratória de Dados | [IMDB 5000 Movie Dataset](https://github.com/Lenakirara/Bootcamp_de_Dados_MIA/blob/main/IMDB_5000_Movie_Dataset.ipynb)|
-| 10/08 | Visualização de Dados | |
+| 10/08 | Visualização de Dados | [State of Data Brazil 2021](https://github.com/Lenakirara/Bootcamp_de_Dados_MIA/blob/main/State_of_Data_Brazil_2021.ipynb)|
 | 13/08 | Regressão | |
 | 17/08 | Classificação (parte 1) | |
 | 20/08 | Classificação (parte 2) | |
